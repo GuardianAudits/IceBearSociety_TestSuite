@@ -1,6 +1,6 @@
 # Ice Bear Society ~ Guardian Test Suite
 
-Guardian has prepared a comprehensive test suite for Ice Bear Society, all findings are included in the final audit report [here](https://github.com/GuardianAudits/Audits/IceBearSociety_Audit).
+Guardian has prepared a comprehensive test suite for Ice Bear Society, all findings are included in the final audit report [here](https://github.com/GuardianAudits/Audits/blob/main/IceBearSociety_Audit.pdf).
 
 
 Guardian's complete security analysis includes:
